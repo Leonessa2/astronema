@@ -1,4 +1,4 @@
-# ⚠️ DEPOTS : astronema ET VeVePreda/scrapeur-veve   ·   CHEMIN : scraper/wallet_scan.py
+# ⚠️ DEPOTS : astronema ET Leonessa2/scrapeur-veve   ·   CHEMIN : scraper/wallet_scan.py
 #
 # ⭐ FICHIER VOLONTAIREMENT PARTAGE ET IDENTIQUE dans ces deux depots (verifie
 # byte-a-byte le 29/07/2026). La question n'est donc pas « ou va-t-il ? » mais
@@ -86,7 +86,7 @@ HEADER = ["wallet", "first_seen", "last_active", "tx_count"]
 # ⭐⭐ UNE LIGNE ANONYME N'EST PAS UNE LIGNE SANS IDENTITE : C'EST UNE LIGNE
 # DONT ON A LU LE MAUVAIS CHAMP.
 #
-# ⛔ EN FIN, jamais au milieu : `merge_transfers.py` (fanablefrance/jetonveve)
+# ⛔ EN FIN, jamais au milieu : `merge_transfers.py` (Leonessa2/jetonveve)
 # lit ce format par POSITION (`p[0]`..`p[9]`, garde `len(p) < 10`). Une
 # insertion ne leverait aucune erreur chez lui — elle decalerait les valeurs,
 # dans un autre depot et plus tard.

@@ -1,4 +1,4 @@
-# ⚠️ DEPOT : astronema OU VeVePreda/scrapeur-veve   ·   CHEMIN : .github/workflows/medium-archive.yml
+# ⚠️ DEPOT : astronema OU Leonessa2/scrapeur-veve   ·   CHEMIN : .github/workflows/medium-archive.yml
 #
 # CE WORKFLOW MARCHE DANS LES DEUX. Le module n'importe rien du depot : que la
 # bibliotheque standard. Il lui faut seulement un package scraper/ (avec son
